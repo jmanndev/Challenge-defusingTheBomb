@@ -1,0 +1,6 @@
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Defusing The Bomb - Easy\Defusing The Bomb - Easy\bin\Debug\Defusing The Bomb - Easy.exe.config
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Defusing The Bomb - Easy\Defusing The Bomb - Easy\bin\Debug\Defusing The Bomb - Easy.exe
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Defusing The Bomb - Easy\Defusing The Bomb - Easy\bin\Debug\Defusing The Bomb - Easy.pdb
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Defusing The Bomb - Easy\Defusing The Bomb - Easy\obj\Debug\Defusing The Bomb - Easy.csprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Defusing The Bomb - Easy\Defusing The Bomb - Easy\obj\Debug\Defusing The Bomb - Easy.exe
+D:\Users\Jono\Documents\GitHub\Challenge-defusingTheBomb\Defusing The Bomb - Easy\Defusing The Bomb - Easy\obj\Debug\Defusing The Bomb - Easy.pdb
